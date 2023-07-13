@@ -21,11 +21,13 @@ nestjs-prisma semble être interressant je cite : "When using this package, you 
 
 ```bash
 npx prisma migrate dev --name "init"
+npx prisma migrate dev --name "add-user-model"
 ```
 
 ```bash
 npx prisma db seed
 ```
+
 
 # Swagger
 
