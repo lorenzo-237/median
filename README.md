@@ -1,3 +1,7 @@
+Petit tuto que j'ai adapté (surtout le docker-compose)
+
+[Ici](https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0)
+
 # Docker compose 
 
 ```bash
